@@ -24,11 +24,6 @@ button.onclick = function(){
 
 
 
-
-
-
-
-
 // var text = document.querySelector("input[type='text']");
 // var button = document.getElementById('btn')
 // var div = document.querySelector("div");
